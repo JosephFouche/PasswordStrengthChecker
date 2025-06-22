@@ -1,0 +1,1 @@
+Create  a C program that evaluates the strength of password based on criteria like lenghth character types, and entropy. The program provides feedback on whether the password is weak, medium, or strong.
