@@ -2,7 +2,7 @@
 //target ip address ad port range
 // use sockets to check if a port is open
 //output: list of open ports and their associated services(eg: 80/HTTP, 22/ssh)
-
+//learning...
 
 #include <stdio.h>
 #include <sys/socket.h>
